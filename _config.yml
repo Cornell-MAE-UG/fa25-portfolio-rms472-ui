@@ -8,12 +8,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Ryan Sauter
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Ryan Sauter
+description              : Ryan Sauter - Projects and CV 
+baseurl                  : "FA25-PORTFOLIO-RMS472-UI" # Set this to your repo name 
+
+git config --global user.email "rms472@cornell.edu"
+
+git config --global user.name "Ryan Sauter"
 
 # Theme and Style
 theme: jekyll-theme-minimal
