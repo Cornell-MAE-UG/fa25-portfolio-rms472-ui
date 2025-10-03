@@ -8,12 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Ryan Sauter
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Ryan Sauter
-description              : Ryan Sauter - Projects and CV 
-baseurl                  : "FA25-PORTFOLIO-RMS472-UI" # Set this to your repo name 
+title: Ryan Sauter
+description: Ryan Sauter - Projects and CV
+url: "https://cornell-mae-ug.github.io"          
+baseurl: "/fa25-portfolio-rms472-ui" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
