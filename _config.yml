@@ -15,10 +15,6 @@ name                     : Ryan Sauter
 description              : Ryan Sauter - Projects and CV 
 baseurl                  : "FA25-PORTFOLIO-RMS472-UI" # Set this to your repo name 
 
-git config --global user.email "rms472@cornell.edu"
-
-git config --global user.name "Ryan Sauter"
-
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
